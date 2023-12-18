@@ -1,0 +1,57 @@
+{
+    "carManufacturers": [
+      {
+        "name": "Toyota",
+        "subCompanies": [
+          {
+            "name": "Lexus",
+            "cars": ["Lexus RX", "Lexus ES", "Lexus LS"]
+          },
+          {
+            "name": "Toyota Racing Development (TRD)",
+            "cars": ["Toyota Supra GR", "Toyota 86", "Toyota Tundra TRD Pro"]
+          }
+        ]
+      },
+      {
+        "name": "Ford",
+        "subCompanies": [
+          {
+            "name": "Lincoln",
+            "cars": ["Lincoln Navigator", "Lincoln Aviator", "Lincoln Corsair"]
+          },
+          {
+            "name": "Ford Performance",
+            "cars": ["Ford Mustang GT", "Ford F-150 Raptor", "Ford Focus RS"]
+          }
+        ]
+      },
+      {
+        "name": "BMW",
+        "subCompanies": [
+          {
+            "name": "MINI",
+            "cars": ["MINI Cooper", "MINI Countryman", "MINI Clubman"]
+          },
+          {
+            "name": "BMW M GmbH",
+            "cars": ["BMW M3", "BMW M5", "BMW X6 M"]
+          }
+        ]
+      },
+      {
+        "name": "Volkswagen",
+        "subCompanies": [
+          {
+            "name": "Audi",
+            "cars": ["Audi A4", "Audi Q5", "Audi R8"]
+          },
+          {
+            "name": "Porsche",
+            "cars": ["Porsche 911", "Porsche Cayenne", "Porsche Panamera"]
+          }
+        ]
+      }
+    ]
+  }
+  
